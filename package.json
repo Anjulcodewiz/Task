@@ -1,0 +1,15 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Implement Continuous  Integration/Continuous Deployment (CI/CD) for a  NestJS application using TypeORM,  PostgreSQL, and AWS.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .", 
+    "test": "jest",      
+    "build": "nest build"  
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
